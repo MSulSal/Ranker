@@ -1,0 +1,6 @@
+@Ranker.Server_HostAddress = http://localhost:5139
+
+GET {{Ranker.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
